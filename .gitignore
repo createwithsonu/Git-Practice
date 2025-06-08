@@ -9,3 +9,5 @@ node_modules/
 mylogs.log
 logs/
 # Ignore coverage reports
+*.cpp
+ignore/
